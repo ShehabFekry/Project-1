@@ -1,2 +1,2 @@
 # Project-1
-HTML + Css Project
+HTML + CSS Project
